@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alcadeus0
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Node.js, React and Python
+- 💞️ I’m looking to collaborate on any small projects involving the above stack
+- 📫 How to reach me- Shoot me an email and I will get back to you soon!
