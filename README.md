@@ -1,4 +1,4 @@
-[![Master Head](https://media.kasperskydaily.com/wp-content/uploads/sites/92/2018/10/24162022/cyber-detective-tiportal-featured.jpg)]
+![Master Head](https://media.kasperskydaily.com/wp-content/uploads/sites/92/2018/10/24162022/cyber-detective-tiportal-featured.jpg)
 <h1 align="center">Greetings 👋, you can call me Alcadeus</h1>
 <h3 align="center">I'm an upbeat programmer bringing visions to life!</h3>
 
