@@ -28,4 +28,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=alcadeus0&show_icons=true&locale=en" alt="alcadeus0" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcadeus0&" alt="alcadeus0" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alcadeus0&show_icons=true&locale=en&layout=compact" alt="alcadeus0" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alcadeus0&show_icons=true&locale=en&layout=compact" alt="alcadeus0" /></p>
