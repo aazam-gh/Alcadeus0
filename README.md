@@ -1,7 +1,6 @@
-![Master Head](https://media.kasperskydaily.com/wp-content/uploads/sites/92/2018/10/24162022/cyber-detective-tiportal-featured.jpg)
 <h1 align="center">Greetings 👋, you can call me Alcadeus</h1>
 <h3 align="center">I'm an upbeat programmer bringing visions to life!</h3>
-
+<img src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2018/10/24162022/cyber-detective-tiportal-featured.jpg">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alcadeus0&label=Profile%20views&color=0e75b6&style=flat" alt="alcadeus0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcadeus0" alt="alcadeus0" /></a> </p>
