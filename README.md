@@ -3,7 +3,7 @@
 <img src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2018/10/24162022/cyber-detective-tiportal-featured.jpg">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alcadeus0&label=Profile%20views&color=0e75b6&style=flat" alt="alcadeus0" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alcadeus0&theme=onedark&column=8)](https://github.com/Alcadeus0/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alcadeus0&theme=gruvbox&column=8)](https://github.com/Alcadeus0/github-profile-trophy)
 
 - 🌱 I’m currently learning **GraphQL, Next.js and Redux**
 
